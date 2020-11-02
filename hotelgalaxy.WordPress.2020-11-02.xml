@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.5.1" created="2020-10-05 06:03" -->
+	<!-- generator="WordPress/5.5.3" created="2020-11-02 11:27" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Hotel Galaxy</title>
 	<link>https://webdzier.com/demo/theme/hotel-galaxy</link>
 	<description>Hotel based WordPress theme</description>
-	<pubDate>Mon, 05 Oct 2020 06:03:04 +0000</pubDate>
+	<pubDate>Mon, 02 Nov 2020 11:27:22 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://webdzier.com/demo/theme/hotel-galaxy</wp:base_site_url>
@@ -215,7 +215,7 @@
 	<wp:term><wp:term_id>67</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary-menu]]></wp:term_slug><wp:term_name><![CDATA[Primary menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
 
 		<item>
 		<title>tshirt-2.jpg</title>
@@ -4154,56 +4154,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Single Bed Room</title>
-		<link>https://webdzier.com/demo/theme/hotel-galaxy/room/room-one/</link>
-		<pubDate>Tue, 23 Jun 2020 09:28:21 +0000</pubDate>
-		<dc:creator><![CDATA[webdzier]]></dc:creator>
-		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/?post_type=hg_room&#038;p=242</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad inim veniam,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodoconsequat. Duis aute irure dolor in reprehenderit in voluptatevelit essecillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-<!-- /wp:paragraph --> <!-- wp:heading -->
-<h2>Lorem ipsum dolor sit amet, consectetur</h2>
-<!-- /wp:heading --> <!-- wp:paragraph -->
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad inim veniam,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodoconsequat. Duis aute irure dolor in reprehenderit in voluptatevelit essecillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-<!-- /wp:paragraph --> <!-- wp:image {"id":885,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img class="wp-image-885" src="https://webdzier.com/demo/theme/hotel-galaxy/wp-content/uploads/2020/06/hg-image6.jpg" alt="" /></figure>
-<!-- /wp:image --> <!-- wp:paragraph -->
-
-<strong>Lorem ipsum dolor sit </strong>amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad inim veniam,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodoconsequat. Duis aute irure dolor in reprehenderit in voluptatevelit essecillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>242</wp:post_id>
-		<wp:post_date><![CDATA[2020-06-23 09:28:21]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-06-23 09:28:21]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[room-one]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[hg_room]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[hg_room_settings_242]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:12:{s:9:"post_type";s:7:"hg_room";s:9:"save_post";s:17:"hg_room_settings_";s:2:"id";s:3:"242";s:5:"title";s:15:"Single Bed Room";s:4:"rent";s:4:"$600";s:6:"rating";s:1:"5";s:9:"is_rating";s:1:"1";s:5:"image";a:6:{i:0;s:98:"https://webdzier.com/demo/theme/hotel-galaxy/wp-content/uploads/2020/06/hotel_galaxy_room1-min.jpg";i:1;s:98:"https://webdzier.com/demo/theme/hotel-galaxy/wp-content/uploads/2020/06/hotel_galaxy_room4-min.jpg";i:2;s:0:"";i:3;s:0:"";i:4;s:0:"";i:5;s:0:"";}s:4:"size";s:3:"150";s:6:"adults";s:1:"2";s:8:"children";s:1:"2";s:3:"day";s:1:"2";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[886]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title>Happy Wedding Anniversary</title>
 		<link>https://webdzier.com/demo/theme/hotel-galaxy/event/event-one/</link>
 		<pubDate>Tue, 23 Jun 2020 09:50:57 +0000</pubDate>
@@ -4638,120 +4588,6 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Party With Friends</title>
-		<link>https://webdzier.com/demo/theme/hotel-galaxy/gallery/party-with-friends/</link>
-		<pubDate>Mon, 20 Jul 2020 10:17:53 +0000</pubDate>
-		<dc:creator><![CDATA[webdzier]]></dc:creator>
-		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/?post_type=hg_gallery&#038;p=684</guid>
-		<description></description>
-		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>684</wp:post_id>
-		<wp:post_date><![CDATA[2020-07-20 10:17:53]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-07-20 10:17:53]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[party-with-friends]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[hg_gallery]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="gallery_taxonomy" nicename="all-images"><![CDATA[All]]></category>
-		<category domain="gallery_taxonomy" nicename="luxury-room"><![CDATA[Luxury Room]]></category>
-		<category domain="gallery_taxonomy" nicename="party"><![CDATA[Party]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[luxury-room]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[hg_gallery_settings_684]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:4:{s:9:"post_type";s:10:"hg_gallery";s:9:"save_post";s:17:"hg_room_settings_";s:5:"image";a:6:{i:0;s:102:"https://webdzier.com/demo/theme/hotel-galaxy/wp-content/uploads/2020/07/hotel-galaxy-gallery12-min.jpg";i:1;s:0:"";i:2;s:0:"";i:3;s:0:"";i:4;s:0:"";i:5;s:0:"";}s:7:"sidebar";s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[775]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Holiday</title>
-		<link>https://webdzier.com/demo/theme/hotel-galaxy/gallery/holiday/</link>
-		<pubDate>Mon, 20 Jul 2020 10:21:02 +0000</pubDate>
-		<dc:creator><![CDATA[webdzier]]></dc:creator>
-		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/?post_type=hg_gallery&#038;p=686</guid>
-		<description></description>
-		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>686</wp:post_id>
-		<wp:post_date><![CDATA[2020-07-20 10:21:02]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-07-20 10:21:02]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[holiday]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[hg_gallery]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="gallery_taxonomy" nicename="all-images"><![CDATA[All]]></category>
-		<category domain="gallery_taxonomy" nicename="party"><![CDATA[Party]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[hg_gallery_settings_686]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:4:{s:9:"post_type";s:10:"hg_gallery";s:9:"save_post";s:17:"hg_room_settings_";s:5:"image";a:6:{i:0;s:102:"https://webdzier.com/demo/theme/hotel-galaxy/wp-content/uploads/2020/07/hotel-galaxy-gallery12-min.jpg";i:1;s:0:"";i:2;s:0:"";i:3;s:0:"";i:4;s:0:"";i:5;s:0:"";}s:7:"sidebar";s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[890]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Couple Party</title>
-		<link>https://webdzier.com/demo/theme/hotel-galaxy/gallery/couple-party/</link>
-		<pubDate>Mon, 20 Jul 2020 10:26:35 +0000</pubDate>
-		<dc:creator><![CDATA[webdzier]]></dc:creator>
-		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/?post_type=hg_gallery&#038;p=689</guid>
-		<description></description>
-		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>689</wp:post_id>
-		<wp:post_date><![CDATA[2020-07-20 10:26:35]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-07-20 10:26:35]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[couple-party]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[hg_gallery]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="gallery_taxonomy" nicename="all-images"><![CDATA[All]]></category>
-		<category domain="gallery_taxonomy" nicename="couple"><![CDATA[Couple]]></category>
-		<category domain="gallery_taxonomy" nicename="party"><![CDATA[Party]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[774]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[hg_gallery_settings_689]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:4:{s:9:"post_type";s:10:"hg_gallery";s:9:"save_post";s:17:"hg_room_settings_";s:5:"image";a:6:{i:0;s:101:"https://webdzier.com/demo/theme/hotel-galaxy/wp-content/uploads/2020/07/hotel-galaxy-gallery6-min.jpg";i:1;s:0:"";i:2;s:0:"";i:3;s:0:"";i:4;s:0:"";i:5;s:0:"";}s:7:"sidebar";s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title>cropped-logo5.png</title>
 		<link>https://webdzier.com/demo/theme/hotel-galaxy/cropped-logo5-png/</link>
 		<pubDate>Sat, 29 Aug 2020 07:33:09 +0000</pubDate>
@@ -4884,167 +4720,129 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
-		<link>https://webdzier.com/demo/theme/hotel-galaxy/mphb_booking/236/</link>
-		<pubDate>Tue, 23 Jun 2020 08:16:03 +0000</pubDate>
+		<title>express_checkout</title>
+		<link>https://webdzier.com/demo/theme/hotel-galaxy/express_checkout/</link>
+		<pubDate>Tue, 13 Oct 2020 05:55:45 +0000</pubDate>
 		<dc:creator><![CDATA[webdzier]]></dc:creator>
-		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/?post_type=mphb_booking&#038;p=236</guid>
+		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/wp-content/uploads/2020/10/express_checkout.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>236</wp:post_id>
-		<wp:post_date><![CDATA[2020-06-23 08:16:03]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-06-23 08:16:03]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:post_id>1151</wp:post_id>
+		<wp:post_date><![CDATA[2020-10-13 05:55:45]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-10-13 05:55:45]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[236]]></wp:post_name>
-		<wp:status><![CDATA[abandoned]]></wp:status>
+		<wp:post_name><![CDATA[express_checkout]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[mphb_booking]]></wp:post_type>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[mphb_key]]></wp:meta_key>
-		<wp:meta_value><![CDATA[booking_236_5ef1ba4329c6e5.09344769]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://webdzier.com/demo/theme/hotel-galaxy/wp-content/uploads/2020/10/express_checkout.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/10/express_checkout.png]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[mphb_check_in_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-06-23]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:350;s:6:"height";i:350;s:4:"file";s:28:"2020/10/express_checkout.png";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:28:"express_checkout-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:28:"express_checkout-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>free_shipping</title>
+		<link>https://webdzier.com/demo/theme/hotel-galaxy/free_shipping/</link>
+		<pubDate>Tue, 13 Oct 2020 05:55:47 +0000</pubDate>
+		<dc:creator><![CDATA[webdzier]]></dc:creator>
+		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/wp-content/uploads/2020/10/free_shipping.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1152</wp:post_id>
+		<wp:post_date><![CDATA[2020-10-13 05:55:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-10-13 05:55:47]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[free_shipping]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://webdzier.com/demo/theme/hotel-galaxy/wp-content/uploads/2020/10/free_shipping.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:350;s:6:"height";i:350;s:4:"file";s:25:"2020/10/free_shipping.png";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:25:"free_shipping-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:25:"free_shipping-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[mphb_check_out_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-06-24]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/10/free_shipping.png]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>mastercard_visa</title>
+		<link>https://webdzier.com/demo/theme/hotel-galaxy/mastercard_visa/</link>
+		<pubDate>Tue, 13 Oct 2020 05:55:49 +0000</pubDate>
+		<dc:creator><![CDATA[webdzier]]></dc:creator>
+		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/wp-content/uploads/2020/10/mastercard_visa.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1153</wp:post_id>
+		<wp:post_date><![CDATA[2020-10-13 05:55:49]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-10-13 05:55:49]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[mastercard_visa]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://webdzier.com/demo/theme/hotel-galaxy/wp-content/uploads/2020/10/mastercard_visa.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/10/mastercard_visa.png]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[mphb_note]]></wp:meta_key>
-		<wp:meta_value><![CDATA[This is my room]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:350;s:6:"height";i:350;s:4:"file";s:27:"2020/10/mastercard_visa.png";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:27:"mastercard_visa-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:27:"mastercard_visa-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>paypal</title>
+		<link>https://webdzier.com/demo/theme/hotel-galaxy/paypal/</link>
+		<pubDate>Tue, 13 Oct 2020 05:55:51 +0000</pubDate>
+		<dc:creator><![CDATA[webdzier]]></dc:creator>
+		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/wp-content/uploads/2020/10/paypal.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1154</wp:post_id>
+		<wp:post_date><![CDATA[2020-10-13 05:55:51]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-10-13 05:55:51]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[paypal]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://webdzier.com/demo/theme/hotel-galaxy/wp-content/uploads/2020/10/paypal.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:350;s:6:"height";i:350;s:4:"file";s:18:"2020/10/paypal.png";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:18:"paypal-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:18:"paypal-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[mphb_email]]></wp:meta_key>
-		<wp:meta_value><![CDATA[lokesh.php2015@gmail.com]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/10/paypal.png]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mphb_first_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[lokesh]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mphb_last_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[suman]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mphb_phone]]></wp:meta_key>
-		<wp:meta_value><![CDATA[7791953444]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mphb_country]]></wp:meta_key>
-		<wp:meta_value><![CDATA[IN]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mphb_state]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mphb_city]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mphb_zip]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mphb_address1]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mphb_total_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[200]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mphb_ical_prodid]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mphb_ical_summary]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mphb_ical_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mphb_language]]></wp:meta_key>
-		<wp:meta_value><![CDATA[en]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mphb_checkout_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[516cca212f5647929356a5969f4576d7]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mphb_booking_price_breakdown]]></wp:meta_key>
-		<wp:meta_value><![CDATA[{"rooms":[{"room":{"type":"Room Two","rate":"Room Two","list":{"2020-06-23":"200"},"total":"200","discount":"0","discount_total":"200","adults":"1","children":"0","children_capacity":"0"},"services":{"list":[],"total":"0"},"fees":{"list":[],"total":"0"},"taxes":{"room":{"list":[],"total":"0"},"services":{"list":[],"total":"0"},"fees":{"list":[],"total":"0"}},"total":"200","discount_total":"200"}],"total":"200"}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mphb_coupon_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>3</wp:comment_id>
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[]]></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2020-06-23 08:16:03]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2020-06-23 08:16:03]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Status changed from New to Auto Draft.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[mphb_booking_log]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					<wp:comment>
-			<wp:comment_id>4</wp:comment_id>
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[]]></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2020-06-23 08:16:03]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2020-06-23 08:16:03]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Status changed from Auto Draft to Pending User Confirmation.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[mphb_booking_log]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					<wp:comment>
-			<wp:comment_id>5</wp:comment_id>
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[]]></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2020-06-23 08:16:03]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2020-06-23 08:16:03]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA["New Booking Email (Confirmation by User)" mail was sent to customer.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[mphb_booking_log]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					<wp:comment>
-			<wp:comment_id>6</wp:comment_id>
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[]]></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2020-06-23 08:37:23]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2020-06-23 08:37:23]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Status changed from Pending User Confirmation to Abandoned.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[mphb_booking_log]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					</item>
+							</item>
 					<item>
 		<title>Room Slider One</title>
 		<link>https://webdzier.com/demo/theme/hotel-galaxy/slider/room-slider-one/</link>
@@ -5152,11 +4950,11 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Single Person Room</title>
-		<link>https://webdzier.com/demo/theme/hotel-galaxy/room/room-two/</link>
-		<pubDate>Tue, 23 Jun 2020 09:30:49 +0000</pubDate>
+		<title>Single Bed Room</title>
+		<link>https://webdzier.com/demo/theme/hotel-galaxy/room/room-one/</link>
+		<pubDate>Tue, 23 Jun 2020 09:28:21 +0000</pubDate>
 		<dc:creator><![CDATA[webdzier]]></dc:creator>
-		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/?post_type=hg_room&#038;p=243</guid>
+		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/?post_type=hg_room&#038;p=242</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 
@@ -5174,6 +4972,58 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 <strong>Lorem ipsum dolor sit </strong>amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad inim veniam,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodoconsequat. Duis aute irure dolor in reprehenderit in voluptatevelit essecillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>242</wp:post_id>
+		<wp:post_date><![CDATA[2020-06-23 09:28:21]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-06-23 09:28:21]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[room-one]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[hg_room]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[hg_room_settings_242]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:12:{s:9:"post_type";s:7:"hg_room";s:9:"save_post";s:17:"hg_room_settings_";s:2:"id";s:3:"242";s:5:"title";s:15:"Single Bed Room";s:4:"rent";s:4:"$600";s:6:"rating";s:1:"5";s:9:"is_rating";s:1:"1";s:5:"image";a:6:{i:0;s:98:"https://webdzier.com/demo/theme/hotel-galaxy/wp-content/uploads/2020/06/hotel_galaxy_room1-min.jpg";i:1;s:98:"https://webdzier.com/demo/theme/hotel-galaxy/wp-content/uploads/2020/06/hotel_galaxy_room4-min.jpg";i:2;s:0:"";i:3;s:0:"";i:4;s:0:"";i:5;s:0:"";}s:4:"size";s:3:"150";s:6:"adults";s:1:"2";s:8:"children";s:1:"2";s:3:"day";s:1:"2";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[886]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Single Person Room</title>
+		<link>https://webdzier.com/demo/theme/hotel-galaxy/room/room-two/</link>
+		<pubDate>Tue, 23 Jun 2020 09:30:49 +0000</pubDate>
+		<dc:creator><![CDATA[webdzier]]></dc:creator>
+		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/?post_type=hg_room&#038;p=243</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad inim veniam,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodoconsequat. Duis aute irure dolor in reprehenderit in voluptatevelit essecillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Lorem ipsum dolor sit amet, consectetur</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad inim veniam,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodoconsequat. Duis aute irure dolor in reprehenderit in voluptatevelit essecillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":885,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://webdzier.com/demo/theme/hotel-galaxy/wp-content/uploads/2020/06/hg-image6.jpg" alt="" class="wp-image-885"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>Lorem ipsum dolor sit </strong>amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad inim veniam,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodoconsequat. Duis aute irure dolor in reprehenderit in voluptatevelit essecillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>243</wp:post_id>
@@ -5198,7 +5048,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hg_room_settings_243]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:12:{s:9:"post_type";s:7:"hg_room";s:9:"save_post";s:17:"hg_room_settings_";s:2:"id";s:3:"243";s:5:"title";s:18:"Single Person Room";s:4:"rent";s:4:"$500";s:6:"rating";s:1:"5";s:9:"is_rating";s:1:"1";s:5:"image";a:6:{i:0;s:98:"https://webdzier.com/demo/theme/hotel-galaxy/wp-content/uploads/2020/06/hotel_galaxy_room4-min.jpg";i:1;s:98:"https://webdzier.com/demo/theme/hotel-galaxy/wp-content/uploads/2020/06/hotel_galaxy_room6-min.jpg";i:2;s:0:"";i:3;s:0:"";i:4;s:0:"";i:5;s:0:"";}s:4:"size";s:3:"200";s:6:"adults";s:1:"4";s:8:"children";s:1:"2";s:3:"day";s:1:"1";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:12:{s:9:"post_type";s:7:"hg_room";s:9:"save_post";s:17:"hg_room_settings_";s:2:"id";s:3:"243";s:5:"title";s:18:"Single Person Room";s:4:"rent";s:4:"$500";s:6:"rating";s:1:"5";s:9:"is_rating";s:1:"1";s:5:"image";a:6:{i:0;s:98:"https://webdzier.com/demo/theme/hotel-galaxy/wp-content/uploads/2020/06/hotel_galaxy_room4-min.jpg";i:1;s:85:"https://webdzier.com/demo/theme/hotel-galaxy/wp-content/uploads/2020/06/hg-image3.jpg";i:2;s:0:"";i:3;s:0:"";i:4;s:0:"";i:5;s:0:"";}s:4:"size";s:3:"200";s:6:"adults";s:1:"4";s:8:"children";s:1:"2";s:3:"day";s:1:"1";}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5510,74 +5360,6 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Testimonial Three</title>
-		<link>https://webdzier.com/demo/theme/hotel-galaxy/testimonial/testimonial-three/</link>
-		<pubDate>Tue, 23 Jun 2020 09:47:18 +0000</pubDate>
-		<dc:creator><![CDATA[webdzier]]></dc:creator>
-		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/?post_type=hg_testimonial&#038;p=257</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>257</wp:post_id>
-		<wp:post_date><![CDATA[2020-06-23 09:47:18]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-06-23 09:47:18]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[testimonial-three]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[hg_testimonial]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[250]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[hg_testimonial_settings_257]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:22:{s:9:"post_type";s:14:"hg_testimonial";s:9:"save_post";s:24:"hg_testimonial_settings_";s:2:"id";s:3:"257";s:4:"name";s:5:"Alexa";s:11:"designation";s:7:"Manager";s:3:"url";s:23:"https://bunchblogs.com/";s:13:"social_icon_1";s:14:"fa fa-facebook";s:13:"social_icon_2";s:13:"fa fa-twitter";s:13:"social_icon_3";s:11:"fa fa-skype";s:13:"social_icon_4";s:17:"fa fa-google-plus";s:13:"social_icon_5";s:15:"fa fa-instagram";s:13:"social_link_1";s:0:"";s:13:"social_link_2";s:1:"#";s:13:"social_link_3";s:1:"#";s:13:"social_link_4";s:1:"#";s:13:"social_link_5";s:1:"#";s:9:"is_social";s:1:"1";s:6:"is_url";s:1:"1";s:6:"target";s:1:"1";s:6:"rating";s:1:"5";s:9:"is_rating";s:1:"1";s:11:"description";s:79:"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor";}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Testimonial Four</title>
-		<link>https://webdzier.com/demo/theme/hotel-galaxy/testimonial/testimonial-four/</link>
-		<pubDate>Tue, 23 Jun 2020 09:48:14 +0000</pubDate>
-		<dc:creator><![CDATA[webdzier]]></dc:creator>
-		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/?post_type=hg_testimonial&#038;p=258</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>258</wp:post_id>
-		<wp:post_date><![CDATA[2020-06-23 09:48:14]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-06-23 09:48:14]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[testimonial-four]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[hg_testimonial]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[hg_testimonial_settings_258]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:22:{s:9:"post_type";s:14:"hg_testimonial";s:9:"save_post";s:24:"hg_testimonial_settings_";s:2:"id";s:3:"258";s:4:"name";s:7:"Allison";s:11:"designation";s:7:"Manager";s:3:"url";s:23:"https://bunchblogs.com/";s:13:"social_icon_1";s:14:"fa fa-facebook";s:13:"social_icon_2";s:13:"fa fa-twitter";s:13:"social_icon_3";s:11:"fa fa-skype";s:13:"social_icon_4";s:17:"fa fa-google-plus";s:13:"social_icon_5";s:15:"fa fa-instagram";s:13:"social_link_1";s:1:"#";s:13:"social_link_2";s:1:"#";s:13:"social_link_3";s:1:"#";s:13:"social_link_4";s:1:"#";s:13:"social_link_5";s:1:"#";s:9:"is_social";s:1:"1";s:6:"is_url";s:1:"1";s:6:"target";s:1:"1";s:6:"rating";s:1:"5";s:9:"is_rating";s:1:"1";s:11:"description";s:79:"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[253]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title>The Party Room</title>
 		<link>https://webdzier.com/demo/theme/hotel-galaxy/room/the-party-room/</link>
 		<pubDate>Mon, 29 Jun 2020 12:13:36 +0000</pubDate>
@@ -5678,167 +5460,119 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
-		<link>https://webdzier.com/demo/theme/hotel-galaxy/mphb_booking/702/</link>
-		<pubDate>Tue, 21 Jul 2020 23:07:18 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/?post_type=mphb_booking&#038;p=702</guid>
+		<title>Party With Friends</title>
+		<link>https://webdzier.com/demo/theme/hotel-galaxy/gallery/party-with-friends/</link>
+		<pubDate>Mon, 20 Jul 2020 10:17:53 +0000</pubDate>
+		<dc:creator><![CDATA[webdzier]]></dc:creator>
+		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/?post_type=hg_gallery&#038;p=684</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>702</wp:post_id>
-		<wp:post_date><![CDATA[2020-07-21 23:07:18]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-07-21 23:07:18]]></wp:post_date_gmt>
+		<wp:post_id>684</wp:post_id>
+		<wp:post_date><![CDATA[2020-07-20 10:17:53]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-07-20 10:17:53]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[702]]></wp:post_name>
-		<wp:status><![CDATA[abandoned]]></wp:status>
+		<wp:post_name><![CDATA[party-with-friends]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[mphb_booking]]></wp:post_type>
+		<wp:post_type><![CDATA[hg_gallery]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[mphb_coupon_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+										<category domain="gallery_taxonomy" nicename="all-images"><![CDATA[All]]></category>
+		<category domain="gallery_taxonomy" nicename="luxury-room"><![CDATA[Luxury Room]]></category>
+		<category domain="gallery_taxonomy" nicename="party"><![CDATA[Party]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[luxury-room]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mphb_booking_price_breakdown]]></wp:meta_key>
-		<wp:meta_value><![CDATA[{"rooms":[{"room":{"type":"Room Two","rate":"Room Two","list":{"2020-07-22":"200"},"total":"200","discount":"0","discount_total":"200","adults":"1","children":"0","children_capacity":"0"},"services":{"list":[],"total":"0"},"fees":{"list":[],"total":"0"},"taxes":{"room":{"list":[],"total":"0"},"services":{"list":[],"total":"0"},"fees":{"list":[],"total":"0"}},"total":"200","discount_total":"200"}],"total":"200"}]]></wp:meta_value>
+		<wp:meta_key><![CDATA[hg_gallery_settings_684]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"post_type";s:10:"hg_gallery";s:9:"save_post";s:17:"hg_room_settings_";s:5:"image";a:6:{i:0;s:102:"https://webdzier.com/demo/theme/hotel-galaxy/wp-content/uploads/2020/07/hotel-galaxy-gallery12-min.jpg";i:1;s:0:"";i:2;s:0:"";i:3;s:0:"";i:4;s:0:"";i:5;s:0:"";}s:7:"sidebar";s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[mphb_ical_summary]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[775]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[mphb_total_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[200]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Holiday</title>
+		<link>https://webdzier.com/demo/theme/hotel-galaxy/gallery/holiday/</link>
+		<pubDate>Mon, 20 Jul 2020 10:21:02 +0000</pubDate>
+		<dc:creator><![CDATA[webdzier]]></dc:creator>
+		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/?post_type=hg_gallery&#038;p=686</guid>
+		<description></description>
+		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>686</wp:post_id>
+		<wp:post_date><![CDATA[2020-07-20 10:21:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-07-20 10:21:02]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[holiday]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[hg_gallery]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="gallery_taxonomy" nicename="all-images"><![CDATA[All]]></category>
+		<category domain="gallery_taxonomy" nicename="party"><![CDATA[Party]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[hg_gallery_settings_686]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"post_type";s:10:"hg_gallery";s:9:"save_post";s:17:"hg_room_settings_";s:5:"image";a:6:{i:0;s:102:"https://webdzier.com/demo/theme/hotel-galaxy/wp-content/uploads/2020/07/hotel-galaxy-gallery12-min.jpg";i:1;s:0:"";i:2;s:0:"";i:3;s:0:"";i:4;s:0:"";i:5;s:0:"";}s:7:"sidebar";s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[mphb_ical_prodid]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[890]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[mphb_address1]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Couple Party</title>
+		<link>https://webdzier.com/demo/theme/hotel-galaxy/gallery/couple-party/</link>
+		<pubDate>Mon, 20 Jul 2020 10:26:35 +0000</pubDate>
+		<dc:creator><![CDATA[webdzier]]></dc:creator>
+		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/?post_type=hg_gallery&#038;p=689</guid>
+		<description></description>
+		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>689</wp:post_id>
+		<wp:post_date><![CDATA[2020-07-20 10:26:35]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-07-20 10:26:35]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[couple-party]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[hg_gallery]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="gallery_taxonomy" nicename="all-images"><![CDATA[All]]></category>
+		<category domain="gallery_taxonomy" nicename="couple"><![CDATA[Couple]]></category>
+		<category domain="gallery_taxonomy" nicename="party"><![CDATA[Party]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[mphb_zip]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[774]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[mphb_city]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_key><![CDATA[hg_gallery_settings_689]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"post_type";s:10:"hg_gallery";s:9:"save_post";s:17:"hg_room_settings_";s:5:"image";a:6:{i:0;s:101:"https://webdzier.com/demo/theme/hotel-galaxy/wp-content/uploads/2020/07/hotel-galaxy-gallery6-min.jpg";i:1;s:0:"";i:2;s:0:"";i:3;s:0:"";i:4;s:0:"";i:5;s:0:"";}s:7:"sidebar";s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mphb_state]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mphb_phone]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1234567890]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mphb_country]]></wp:meta_key>
-		<wp:meta_value><![CDATA[IN]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mphb_email]]></wp:meta_key>
-		<wp:meta_value><![CDATA[asdf@gmail.com]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mphb_first_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[mr]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mphb_last_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[hello]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mphb_checkout_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2db86e6bca4848f0ac87ca5f4a89f3b1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mphb_ical_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mphb_language]]></wp:meta_key>
-		<wp:meta_value><![CDATA[en]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mphb_note]]></wp:meta_key>
-		<wp:meta_value><![CDATA[jvhjjbn]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mphb_check_out_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-07-23]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mphb_check_in_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-07-22]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mphb_key]]></wp:meta_key>
-		<wp:meta_value><![CDATA[booking_702_5f177526cd5c73.29376506]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>13</wp:comment_id>
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[]]></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2020-07-21 23:07:18]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2020-07-21 23:07:18]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Status changed from New to Auto Draft.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[mphb_booking_log]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					<wp:comment>
-			<wp:comment_id>14</wp:comment_id>
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[]]></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2020-07-21 23:07:18]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2020-07-21 23:07:18]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Status changed from Auto Draft to Pending User Confirmation.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[mphb_booking_log]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					<wp:comment>
-			<wp:comment_id>15</wp:comment_id>
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[]]></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2020-07-21 23:07:19]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2020-07-21 23:07:19]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA["New Booking Email (Confirmation by User)" mail was sent to customer.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[mphb_booking_log]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					<wp:comment>
-			<wp:comment_id>16</wp:comment_id>
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[]]></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2020-07-22 02:20:31]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2020-07-22 02:20:31]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Status changed from Pending User Confirmation to Abandoned.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[mphb_booking_log]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					</item>
+							</item>
 					<item>
 		<title>The Hotel Galaxy</title>
 		<link>https://webdzier.com/demo/theme/hotel-galaxy/slider/the-hotel-galaxy/</link>
@@ -6041,6 +5775,168 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 							</item>
 					<item>
 		<title></title>
+		<link>https://webdzier.com/demo/theme/hotel-galaxy/mphb_booking/236/</link>
+		<pubDate>Tue, 23 Jun 2020 08:16:03 +0000</pubDate>
+		<dc:creator><![CDATA[webdzier]]></dc:creator>
+		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/?post_type=mphb_booking&#038;p=236</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>236</wp:post_id>
+		<wp:post_date><![CDATA[2020-06-23 08:16:03]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-06-23 08:16:03]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[236]]></wp:post_name>
+		<wp:status><![CDATA[abandoned]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[mphb_booking]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[mphb_key]]></wp:meta_key>
+		<wp:meta_value><![CDATA[booking_236_5ef1ba4329c6e5.09344769]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mphb_check_in_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020-06-23]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mphb_check_out_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020-06-24]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mphb_note]]></wp:meta_key>
+		<wp:meta_value><![CDATA[This is my room]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mphb_email]]></wp:meta_key>
+		<wp:meta_value><![CDATA[lokesh.php2015@gmail.com]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mphb_first_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[lokesh]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mphb_last_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[suman]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mphb_phone]]></wp:meta_key>
+		<wp:meta_value><![CDATA[7791953444]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mphb_country]]></wp:meta_key>
+		<wp:meta_value><![CDATA[IN]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mphb_state]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mphb_city]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mphb_zip]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mphb_address1]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mphb_total_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[200]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mphb_ical_prodid]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mphb_ical_summary]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mphb_ical_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mphb_language]]></wp:meta_key>
+		<wp:meta_value><![CDATA[en]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mphb_checkout_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[516cca212f5647929356a5969f4576d7]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mphb_booking_price_breakdown]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{"rooms":[{"room":{"type":"Room Two","rate":"Room Two","list":{"2020-06-23":"200"},"total":"200","discount":"0","discount_total":"200","adults":"1","children":"0","children_capacity":"0"},"services":{"list":[],"total":"0"},"fees":{"list":[],"total":"0"},"taxes":{"room":{"list":[],"total":"0"},"services":{"list":[],"total":"0"},"fees":{"list":[],"total":"0"}},"total":"200","discount_total":"200"}],"total":"200"}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mphb_coupon_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:comment>
+			<wp:comment_id>3</wp:comment_id>
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2020-06-23 08:16:03]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2020-06-23 08:16:03]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Status changed from New to Auto Draft.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[mphb_booking_log]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>4</wp:comment_id>
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2020-06-23 08:16:03]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2020-06-23 08:16:03]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Status changed from Auto Draft to Pending User Confirmation.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[mphb_booking_log]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>5</wp:comment_id>
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2020-06-23 08:16:03]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2020-06-23 08:16:03]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA["New Booking Email (Confirmation by User)" mail was sent to customer.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[mphb_booking_log]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>6</wp:comment_id>
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2020-06-23 08:37:23]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2020-06-23 08:37:23]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Status changed from Pending User Confirmation to Abandoned.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[mphb_booking_log]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					</item>
+					<item>
+		<title></title>
 		<link>https://webdzier.com/demo/theme/hotel-galaxy/mphb_reserved_room/237/</link>
 		<pubDate>Tue, 23 Jun 2020 08:16:03 +0000</pubDate>
 		<dc:creator><![CDATA[webdzier]]></dc:creator>
@@ -6087,6 +5983,74 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mphb_uid]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a9e77008a4564d598b33b61b50cf14ae@webdzier.com]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Testimonial Three</title>
+		<link>https://webdzier.com/demo/theme/hotel-galaxy/testimonial/testimonial-three/</link>
+		<pubDate>Tue, 23 Jun 2020 09:47:18 +0000</pubDate>
+		<dc:creator><![CDATA[webdzier]]></dc:creator>
+		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/?post_type=hg_testimonial&#038;p=257</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>257</wp:post_id>
+		<wp:post_date><![CDATA[2020-06-23 09:47:18]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-06-23 09:47:18]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[testimonial-three]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[hg_testimonial]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[250]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[hg_testimonial_settings_257]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:22:{s:9:"post_type";s:14:"hg_testimonial";s:9:"save_post";s:24:"hg_testimonial_settings_";s:2:"id";s:3:"257";s:4:"name";s:5:"Alexa";s:11:"designation";s:7:"Manager";s:3:"url";s:23:"https://bunchblogs.com/";s:13:"social_icon_1";s:14:"fa fa-facebook";s:13:"social_icon_2";s:13:"fa fa-twitter";s:13:"social_icon_3";s:11:"fa fa-skype";s:13:"social_icon_4";s:17:"fa fa-google-plus";s:13:"social_icon_5";s:15:"fa fa-instagram";s:13:"social_link_1";s:0:"";s:13:"social_link_2";s:1:"#";s:13:"social_link_3";s:1:"#";s:13:"social_link_4";s:1:"#";s:13:"social_link_5";s:1:"#";s:9:"is_social";s:1:"1";s:6:"is_url";s:1:"1";s:6:"target";s:1:"1";s:6:"rating";s:1:"5";s:9:"is_rating";s:1:"1";s:11:"description";s:79:"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor";}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Testimonial Four</title>
+		<link>https://webdzier.com/demo/theme/hotel-galaxy/testimonial/testimonial-four/</link>
+		<pubDate>Tue, 23 Jun 2020 09:48:14 +0000</pubDate>
+		<dc:creator><![CDATA[webdzier]]></dc:creator>
+		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/?post_type=hg_testimonial&#038;p=258</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>258</wp:post_id>
+		<wp:post_date><![CDATA[2020-06-23 09:48:14]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-06-23 09:48:14]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[testimonial-four]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[hg_testimonial]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[hg_testimonial_settings_258]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:22:{s:9:"post_type";s:14:"hg_testimonial";s:9:"save_post";s:24:"hg_testimonial_settings_";s:2:"id";s:3:"258";s:4:"name";s:7:"Allison";s:11:"designation";s:7:"Manager";s:3:"url";s:23:"https://bunchblogs.com/";s:13:"social_icon_1";s:14:"fa fa-facebook";s:13:"social_icon_2";s:13:"fa fa-twitter";s:13:"social_icon_3";s:11:"fa fa-skype";s:13:"social_icon_4";s:17:"fa fa-google-plus";s:13:"social_icon_5";s:15:"fa fa-instagram";s:13:"social_link_1";s:1:"#";s:13:"social_link_2";s:1:"#";s:13:"social_link_3";s:1:"#";s:13:"social_link_4";s:1:"#";s:13:"social_link_5";s:1:"#";s:9:"is_social";s:1:"1";s:6:"is_url";s:1:"1";s:6:"target";s:1:"1";s:6:"rating";s:1:"5";s:9:"is_rating";s:1:"1";s:11:"description";s:79:"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[253]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6329,6 +6293,168 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 		<wp:meta_value><![CDATA[9f0712c118bb4df6bf52b81a719a8b58@webdzier.com]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
+					<item>
+		<title></title>
+		<link>https://webdzier.com/demo/theme/hotel-galaxy/mphb_booking/702/</link>
+		<pubDate>Tue, 21 Jul 2020 23:07:18 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/?post_type=mphb_booking&#038;p=702</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>702</wp:post_id>
+		<wp:post_date><![CDATA[2020-07-21 23:07:18]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-07-21 23:07:18]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[702]]></wp:post_name>
+		<wp:status><![CDATA[abandoned]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[mphb_booking]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[mphb_coupon_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mphb_booking_price_breakdown]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{"rooms":[{"room":{"type":"Room Two","rate":"Room Two","list":{"2020-07-22":"200"},"total":"200","discount":"0","discount_total":"200","adults":"1","children":"0","children_capacity":"0"},"services":{"list":[],"total":"0"},"fees":{"list":[],"total":"0"},"taxes":{"room":{"list":[],"total":"0"},"services":{"list":[],"total":"0"},"fees":{"list":[],"total":"0"}},"total":"200","discount_total":"200"}],"total":"200"}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mphb_ical_summary]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mphb_total_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[200]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mphb_ical_prodid]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mphb_address1]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mphb_zip]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mphb_city]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mphb_state]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mphb_phone]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1234567890]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mphb_country]]></wp:meta_key>
+		<wp:meta_value><![CDATA[IN]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mphb_email]]></wp:meta_key>
+		<wp:meta_value><![CDATA[asdf@gmail.com]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mphb_first_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[mr]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mphb_last_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[hello]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mphb_checkout_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2db86e6bca4848f0ac87ca5f4a89f3b1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mphb_ical_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mphb_language]]></wp:meta_key>
+		<wp:meta_value><![CDATA[en]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mphb_note]]></wp:meta_key>
+		<wp:meta_value><![CDATA[jvhjjbn]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mphb_check_out_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020-07-23]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mphb_check_in_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020-07-22]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mphb_key]]></wp:meta_key>
+		<wp:meta_value><![CDATA[booking_702_5f177526cd5c73.29376506]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:comment>
+			<wp:comment_id>13</wp:comment_id>
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2020-07-21 23:07:18]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2020-07-21 23:07:18]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Status changed from New to Auto Draft.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[mphb_booking_log]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>14</wp:comment_id>
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2020-07-21 23:07:18]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2020-07-21 23:07:18]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Status changed from Auto Draft to Pending User Confirmation.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[mphb_booking_log]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>15</wp:comment_id>
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2020-07-21 23:07:19]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2020-07-21 23:07:19]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA["New Booking Email (Confirmation by User)" mail was sent to customer.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[mphb_booking_log]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>16</wp:comment_id>
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2020-07-22 02:20:31]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2020-07-22 02:20:31]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Status changed from Pending User Confirmation to Abandoned.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[mphb_booking_log]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					</item>
 					<item>
 		<title></title>
 		<link>https://webdzier.com/demo/theme/hotel-galaxy/mphb_reserved_room/703/</link>
@@ -6967,56 +7093,6 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 					</item>
 					<item>
 		<title></title>
-		<link>https://webdzier.com/demo/theme/hotel-galaxy/mphb_reserved_room/942/</link>
-		<pubDate>Sat, 05 Sep 2020 11:22:19 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/mphb_reserved_room/942/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>942</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-05 11:22:19]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-05 11:22:19]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[942]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>941</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[mphb_reserved_room]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_mphb_services]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mphb_guest_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[jitendra]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mphb_uid]]></wp:meta_key>
-		<wp:meta_value><![CDATA[65b5fb5c9db34b3a90499ccd857b3b74@webdzier.com]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mphb_rate_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[232]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mphb_adults]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mphb_children]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mphb_room_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[224]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title></title>
 		<link>https://webdzier.com/demo/theme/hotel-galaxy/mphb_booking/1004/</link>
 		<pubDate>Mon, 07 Sep 2020 18:49:36 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
@@ -7177,56 +7253,6 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 			<wp:comment_user_id>0</wp:comment_user_id>
 							</wp:comment>
 					</item>
-					<item>
-		<title></title>
-		<link>https://webdzier.com/demo/theme/hotel-galaxy/mphb_reserved_room/1005/</link>
-		<pubDate>Mon, 07 Sep 2020 18:49:36 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/mphb_reserved_room/1005/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1005</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-07 18:49:36]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-07 18:49:36]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[1005]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>1004</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[mphb_reserved_room]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_mphb_room_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[231]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mphb_rate_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[235]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mphb_adults]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mphb_children]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mphb_services]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mphb_guest_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mphb_uid]]></wp:meta_key>
-		<wp:meta_value><![CDATA[f4fdb9b8e1684f689939a423ad215e4d@webdzier.com]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
 					<item>
 		<title></title>
 		<link>https://webdzier.com/demo/theme/hotel-galaxy/mphb_booking/1006/</link>
@@ -7391,56 +7417,6 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 					</item>
 					<item>
 		<title></title>
-		<link>https://webdzier.com/demo/theme/hotel-galaxy/mphb_reserved_room/1007/</link>
-		<pubDate>Mon, 07 Sep 2020 18:51:08 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/mphb_reserved_room/1007/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1007</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-07 18:51:08]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-07 18:51:08]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[1007]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>1006</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[mphb_reserved_room]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_mphb_room_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[224]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mphb_rate_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[232]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mphb_adults]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mphb_children]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mphb_services]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mphb_guest_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[dae]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mphb_uid]]></wp:meta_key>
-		<wp:meta_value><![CDATA[c002b26f27a148bf8ad31ee9bc5705fa@webdzier.com]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title></title>
 		<link>https://webdzier.com/demo/theme/hotel-galaxy/mphb_booking/1052/</link>
 		<pubDate>Thu, 10 Sep 2020 17:50:19 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
@@ -7601,56 +7577,6 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 			<wp:comment_user_id>0</wp:comment_user_id>
 							</wp:comment>
 					</item>
-					<item>
-		<title></title>
-		<link>https://webdzier.com/demo/theme/hotel-galaxy/mphb_reserved_room/1053/</link>
-		<pubDate>Thu, 10 Sep 2020 17:50:19 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/mphb_reserved_room/1053/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1053</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-10 17:50:19]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-10 17:50:19]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[1053]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>1052</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[mphb_reserved_room]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_mphb_guest_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Hotel]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mphb_uid]]></wp:meta_key>
-		<wp:meta_value><![CDATA[def112481c2940b4923645544112aa13@webdzier.com]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mphb_adults]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mphb_children]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mphb_services]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mphb_room_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[229]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mphb_rate_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[234]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
 					<item>
 		<title></title>
 		<link>https://webdzier.com/demo/theme/hotel-galaxy/mphb_booking/1054/</link>
@@ -8034,116 +7960,6 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
-		<link>https://webdzier.com/demo/theme/hotel-galaxy/2020/06/20/86/</link>
-		<pubDate>Sat, 20 Jun 2020 10:27:01 +0000</pubDate>
-		<dc:creator><![CDATA[webdzier]]></dc:creator>
-		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/2020/06/20/86/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>86</wp:post_id>
-		<wp:post_date><![CDATA[2020-06-20 10:27:01]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-06-20 10:27:01]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[86]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>15</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="menu-1"><![CDATA[Menu 1]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[405]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[85]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title></title>
-		<link>https://webdzier.com/demo/theme/hotel-galaxy/2020/06/20/92/</link>
-		<pubDate>Sat, 20 Jun 2020 10:28:14 +0000</pubDate>
-		<dc:creator><![CDATA[webdzier]]></dc:creator>
-		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/2020/06/20/92/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>92</wp:post_id>
-		<wp:post_date><![CDATA[2020-06-20 10:28:14]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-06-20 10:28:14]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[92]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>6</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="menu-1"><![CDATA[Menu 1]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1026]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[91]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title>Room one</title>
 		<link>https://webdzier.com/demo/theme/hotel-galaxy/accommodation/room-one/</link>
 		<pubDate>Tue, 23 Jun 2020 08:06:51 +0000</pubDate>
@@ -8463,113 +8279,153 @@ cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non pr
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>More</title>
-		<link>https://webdzier.com/demo/theme/hotel-galaxy/2020/07/01/more/</link>
-		<pubDate>Wed, 01 Jul 2020 07:28:22 +0000</pubDate>
-		<dc:creator><![CDATA[webdzier]]></dc:creator>
-		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/?p=405</guid>
+		<title></title>
+		<link>https://webdzier.com/demo/theme/hotel-galaxy/mphb_reserved_room/942/</link>
+		<pubDate>Sat, 05 Sep 2020 11:22:19 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/mphb_reserved_room/942/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>405</wp:post_id>
-		<wp:post_date><![CDATA[2020-07-01 07:28:22]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-07-01 07:28:22]]></wp:post_date_gmt>
+		<wp:post_id>942</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-05 11:22:19]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-05 11:22:19]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[more]]></wp:post_name>
+		<wp:post_name><![CDATA[942]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>12</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_parent>941</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[mphb_reserved_room]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="menu-1"><![CDATA[Menu 1]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_mphb_services]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_key><![CDATA[_mphb_guest_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[jitendra]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mphb_uid]]></wp:meta_key>
+		<wp:meta_value><![CDATA[65b5fb5c9db34b3a90499ccd857b3b74@webdzier.com]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mphb_rate_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[232]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mphb_adults]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mphb_children]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[405]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_mphb_room_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[224]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title></title>
-		<link>https://webdzier.com/demo/theme/hotel-galaxy/2020/07/01/425/</link>
-		<pubDate>Wed, 01 Jul 2020 09:55:23 +0000</pubDate>
-		<dc:creator><![CDATA[webdzier]]></dc:creator>
-		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/2020/07/01/425/</guid>
+		<link>https://webdzier.com/demo/theme/hotel-galaxy/mphb_reserved_room/1005/</link>
+		<pubDate>Mon, 07 Sep 2020 18:49:36 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/mphb_reserved_room/1005/</guid>
 		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>425</wp:post_id>
-		<wp:post_date><![CDATA[2020-07-01 09:55:23]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-07-01 09:55:23]]></wp:post_date_gmt>
+		<wp:post_id>1005</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-07 18:49:36]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-07 18:49:36]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[425]]></wp:post_name>
+		<wp:post_name><![CDATA[1005]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>18</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_parent>1004</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[mphb_reserved_room]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="menu-1"><![CDATA[Menu 1]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_mphb_room_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[231]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_key><![CDATA[_mphb_rate_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[235]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mphb_adults]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mphb_children]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mphb_services]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mphb_guest_name]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_mphb_uid]]></wp:meta_key>
+		<wp:meta_value><![CDATA[f4fdb9b8e1684f689939a423ad215e4d@webdzier.com]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title></title>
+		<link>https://webdzier.com/demo/theme/hotel-galaxy/mphb_reserved_room/1007/</link>
+		<pubDate>Mon, 07 Sep 2020 18:51:08 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/mphb_reserved_room/1007/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1007</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-07 18:51:08]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-07 18:51:08]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[1007]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>1006</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[mphb_reserved_room]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_mphb_room_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[224]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[421]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_mphb_rate_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[232]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[405]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_mphb_adults]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_mphb_children]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_mphb_services]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_mphb_guest_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[dae]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mphb_uid]]></wp:meta_key>
+		<wp:meta_value><![CDATA[c002b26f27a148bf8ad31ee9bc5705fa@webdzier.com]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8670,6 +8526,56 @@ cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non pr
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[mphb_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[10]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title></title>
+		<link>https://webdzier.com/demo/theme/hotel-galaxy/mphb_reserved_room/1053/</link>
+		<pubDate>Thu, 10 Sep 2020 17:50:19 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/mphb_reserved_room/1053/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1053</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-10 17:50:19]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-10 17:50:19]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[1053]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>1052</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[mphb_reserved_room]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_mphb_guest_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Hotel]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mphb_uid]]></wp:meta_key>
+		<wp:meta_value><![CDATA[def112481c2940b4923645544112aa13@webdzier.com]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mphb_adults]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mphb_children]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mphb_services]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mphb_room_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[229]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mphb_rate_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[234]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8836,6 +8742,226 @@ cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non pr
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_orphaned]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1601125764]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title></title>
+		<link>https://webdzier.com/demo/theme/hotel-galaxy/2020/06/20/86/</link>
+		<pubDate>Sat, 20 Jun 2020 10:27:01 +0000</pubDate>
+		<dc:creator><![CDATA[webdzier]]></dc:creator>
+		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/2020/06/20/86/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>86</wp:post_id>
+		<wp:post_date><![CDATA[2020-06-20 10:27:01]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-06-20 10:27:01]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[86]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>15</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="menu-1"><![CDATA[Menu 1]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[405]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[85]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title></title>
+		<link>https://webdzier.com/demo/theme/hotel-galaxy/2020/06/20/92/</link>
+		<pubDate>Sat, 20 Jun 2020 10:28:14 +0000</pubDate>
+		<dc:creator><![CDATA[webdzier]]></dc:creator>
+		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/2020/06/20/92/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>92</wp:post_id>
+		<wp:post_date><![CDATA[2020-06-20 10:28:14]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-06-20 10:28:14]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[92]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>6</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="menu-1"><![CDATA[Menu 1]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1026]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[91]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>More</title>
+		<link>https://webdzier.com/demo/theme/hotel-galaxy/2020/07/01/more/</link>
+		<pubDate>Wed, 01 Jul 2020 07:28:22 +0000</pubDate>
+		<dc:creator><![CDATA[webdzier]]></dc:creator>
+		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/?p=405</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>405</wp:post_id>
+		<wp:post_date><![CDATA[2020-07-01 07:28:22]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-07-01 07:28:22]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[more]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>12</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="menu-1"><![CDATA[Menu 1]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[405]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title></title>
+		<link>https://webdzier.com/demo/theme/hotel-galaxy/2020/07/01/425/</link>
+		<pubDate>Wed, 01 Jul 2020 09:55:23 +0000</pubDate>
+		<dc:creator><![CDATA[webdzier]]></dc:creator>
+		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/2020/07/01/425/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>425</wp:post_id>
+		<wp:post_date><![CDATA[2020-07-01 09:55:23]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-07-01 09:55:23]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[425]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>18</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="menu-1"><![CDATA[Menu 1]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[421]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[405]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -9719,6 +9845,122 @@ cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non pr
 		</wp:postmeta>
 							</item>
 					<item>
+		<title>Sample Page</title>
+		<link>https://webdzier.com/demo/theme/hotel-galaxy/sample-page/</link>
+		<pubDate>Thu, 18 Jun 2020 10:54:43 +0000</pubDate>
+		<dc:creator><![CDATA[webdzier]]></dc:creator>
+		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/?page_id=2</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>...or something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>As a new WordPress user, you should go to <a href="https://webdzier.com/demo/theme/hotel-galaxy/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2</wp:post_id>
+		<wp:post_date><![CDATA[2020-06-18 10:54:43]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-06-18 10:54:43]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Privacy Policy</title>
+		<link>https://webdzier.com/demo/theme/hotel-galaxy/?page_id=3</link>
+		<pubDate>Thu, 18 Jun 2020 10:54:43 +0000</pubDate>
+		<dc:creator><![CDATA[webdzier]]></dc:creator>
+		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/?page_id=3</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:heading --><h2>Who we are</h2><!-- /wp:heading --><!-- wp:paragraph --><p>Our website address is: https://webdzier.com/demo/theme/hotel-galaxy.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>What personal data we collect and why we collect it</h2><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>Comments</h3><!-- /wp:heading --><!-- wp:paragraph --><p>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor&#8217;s IP address and browser user agent string to help spam detection.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Media</h3><!-- /wp:heading --><!-- wp:paragraph --><p>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Contact forms</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>Cookies</h3><!-- /wp:heading --><!-- wp:paragraph --><p>If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select &quot;Remember Me&quot;, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Embedded content from other websites</h3><!-- /wp:heading --><!-- wp:paragraph --><p>Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Analytics</h3><!-- /wp:heading --><!-- wp:heading --><h2>Who we share your data with</h2><!-- /wp:heading --><!-- wp:heading --><h2>How long we retain your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p>If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>What rights you have over your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Where we send your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p>Visitor comments may be checked through an automated spam detection service.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Your contact information</h2><!-- /wp:heading --><!-- wp:heading --><h2>Additional information</h2><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>How we protect your data</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>What data breach procedures we have in place</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>What third parties we receive data from</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>What automated decision making and/or profiling we do with user data</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>Industry regulatory disclosure requirements</h3><!-- /wp:heading -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>3</wp:post_id>
+		<wp:post_date><![CDATA[2020-06-18 10:54:43]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-06-18 10:54:43]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Hotel Room Three</title>
+		<link>https://webdzier.com/demo/theme/hotel-galaxy/hotel-room-three/</link>
+		<pubDate>Thu, 18 Jun 2020 11:06:17 +0000</pubDate>
+		<dc:creator><![CDATA[webdzier]]></dc:creator>
+		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/?page_id=6</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>This is an example page. It’s different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>6</wp:post_id>
+		<wp:post_date><![CDATA[2020-06-18 11:06:17]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-06-18 11:06:17]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[hotel-room-three]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title>Blogs</title>
+		<link>https://webdzier.com/demo/theme/hotel-galaxy/?page_id=300</link>
+		<pubDate></pubDate>
+		<dc:creator><![CDATA[webdzier]]></dc:creator>
+		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/?page_id=300</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>300</wp:post_id>
+		<wp:post_date><![CDATA[2020-06-29 06:14:23]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
 		<title></title>
 		<link>https://webdzier.com/demo/theme/hotel-galaxy/2020/09/26/1133/</link>
 		<pubDate>Sat, 26 Sep 2020 13:02:09 +0000</pubDate>
@@ -9883,273 +10125,6 @@ cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non pr
 		<wp:meta_value><![CDATA[1029]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
-					<item>
-		<title></title>
-		<link>https://webdzier.com/demo/theme/hotel-galaxy/2020/09/26/1141/</link>
-		<pubDate>Sat, 26 Sep 2020 13:02:09 +0000</pubDate>
-		<dc:creator><![CDATA[webdzier]]></dc:creator>
-		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/?p=1141</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1141</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-26 13:02:09]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-26 13:02:09]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[1141]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[40]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Sample Page</title>
-		<link>https://webdzier.com/demo/theme/hotel-galaxy/sample-page/</link>
-		<pubDate>Thu, 18 Jun 2020 10:54:43 +0000</pubDate>
-		<dc:creator><![CDATA[webdzier]]></dc:creator>
-		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/?page_id=2</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>...or something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>As a new WordPress user, you should go to <a href="https://webdzier.com/demo/theme/hotel-galaxy/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2</wp:post_id>
-		<wp:post_date><![CDATA[2020-06-18 10:54:43]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-06-18 10:54:43]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Privacy Policy</title>
-		<link>https://webdzier.com/demo/theme/hotel-galaxy/?page_id=3</link>
-		<pubDate>Thu, 18 Jun 2020 10:54:43 +0000</pubDate>
-		<dc:creator><![CDATA[webdzier]]></dc:creator>
-		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/?page_id=3</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:heading --><h2>Who we are</h2><!-- /wp:heading --><!-- wp:paragraph --><p>Our website address is: https://webdzier.com/demo/theme/hotel-galaxy.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>What personal data we collect and why we collect it</h2><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>Comments</h3><!-- /wp:heading --><!-- wp:paragraph --><p>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor&#8217;s IP address and browser user agent string to help spam detection.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Media</h3><!-- /wp:heading --><!-- wp:paragraph --><p>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Contact forms</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>Cookies</h3><!-- /wp:heading --><!-- wp:paragraph --><p>If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select &quot;Remember Me&quot;, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Embedded content from other websites</h3><!-- /wp:heading --><!-- wp:paragraph --><p>Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Analytics</h3><!-- /wp:heading --><!-- wp:heading --><h2>Who we share your data with</h2><!-- /wp:heading --><!-- wp:heading --><h2>How long we retain your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p>If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>What rights you have over your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Where we send your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p>Visitor comments may be checked through an automated spam detection service.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Your contact information</h2><!-- /wp:heading --><!-- wp:heading --><h2>Additional information</h2><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>How we protect your data</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>What data breach procedures we have in place</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>What third parties we receive data from</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>What automated decision making and/or profiling we do with user data</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>Industry regulatory disclosure requirements</h3><!-- /wp:heading -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>3</wp:post_id>
-		<wp:post_date><![CDATA[2020-06-18 10:54:43]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-06-18 10:54:43]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Hotel Room Three</title>
-		<link>https://webdzier.com/demo/theme/hotel-galaxy/hotel-room-three/</link>
-		<pubDate>Thu, 18 Jun 2020 11:06:17 +0000</pubDate>
-		<dc:creator><![CDATA[webdzier]]></dc:creator>
-		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/?page_id=6</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>This is an example page. It’s different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>6</wp:post_id>
-		<wp:post_date><![CDATA[2020-06-18 11:06:17]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-06-18 11:06:17]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[hotel-room-three]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title>Hotel Room Two</title>
-		<link>https://webdzier.com/demo/theme/hotel-galaxy/hotel-room-two/</link>
-		<pubDate>Thu, 18 Jun 2020 11:07:21 +0000</pubDate>
-		<dc:creator><![CDATA[webdzier]]></dc:creator>
-		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/?page_id=15</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>This is an example page. It’s different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>15</wp:post_id>
-		<wp:post_date><![CDATA[2020-06-18 11:07:21]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-06-18 11:07:21]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[hotel-room-two]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title>Hotel Room One</title>
-		<link>https://webdzier.com/demo/theme/hotel-galaxy/hotel-room-one/</link>
-		<pubDate>Thu, 18 Jun 2020 11:08:06 +0000</pubDate>
-		<dc:creator><![CDATA[webdzier]]></dc:creator>
-		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/?page_id=17</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>This is an example page. It’s different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>17</wp:post_id>
-		<wp:post_date><![CDATA[2020-06-18 11:08:06]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-06-18 11:08:06]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[hotel-room-one]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title>Home</title>
-		<link>https://webdzier.com/demo/theme/hotel-galaxy/</link>
-		<pubDate>Thu, 18 Jun 2020 11:36:25 +0000</pubDate>
-		<dc:creator><![CDATA[webdzier]]></dc:creator>
-		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/?page_id=40</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>40</wp:post_id>
-		<wp:post_date><![CDATA[2020-06-18 11:36:25]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-06-18 11:36:25]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[home]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[template-parts/template-homepage.php]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Blogs</title>
-		<link>https://webdzier.com/demo/theme/hotel-galaxy/blogs/</link>
-		<pubDate>Sat, 20 Jun 2020 10:23:17 +0000</pubDate>
-		<dc:creator><![CDATA[webdzier]]></dc:creator>
-		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/?page_id=73</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>73</wp:post_id>
-		<wp:post_date><![CDATA[2020-06-20 10:23:17]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-06-20 10:23:17]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[blogs]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title>Blogs</title>
-		<link>https://webdzier.com/demo/theme/hotel-galaxy/?page_id=300</link>
-		<pubDate></pubDate>
-		<dc:creator><![CDATA[webdzier]]></dc:creator>
-		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/?page_id=300</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>300</wp:post_id>
-		<wp:post_date><![CDATA[2020-06-29 06:14:23]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
 					<item>
 		<title></title>
 		<link>https://webdzier.com/demo/theme/hotel-galaxy/2020/09/26/1136/</link>
@@ -10403,6 +10378,61 @@ cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non pr
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[421]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title></title>
+		<link>https://webdzier.com/demo/theme/hotel-galaxy/2020/09/26/1141/</link>
+		<pubDate>Sat, 26 Sep 2020 13:02:09 +0000</pubDate>
+		<dc:creator><![CDATA[webdzier]]></dc:creator>
+		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/?p=1141</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1141</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-26 13:02:09]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-26 13:02:09]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[1141]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[40]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
@@ -10811,6 +10841,102 @@ cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non pr
 		</wp:postmeta>
 							</item>
 					<item>
+		<title>Hotel Room Two</title>
+		<link>https://webdzier.com/demo/theme/hotel-galaxy/hotel-room-two/</link>
+		<pubDate>Thu, 18 Jun 2020 11:07:21 +0000</pubDate>
+		<dc:creator><![CDATA[webdzier]]></dc:creator>
+		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/?page_id=15</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>This is an example page. It’s different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>15</wp:post_id>
+		<wp:post_date><![CDATA[2020-06-18 11:07:21]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-06-18 11:07:21]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[hotel-room-two]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title>Hotel Room One</title>
+		<link>https://webdzier.com/demo/theme/hotel-galaxy/hotel-room-one/</link>
+		<pubDate>Thu, 18 Jun 2020 11:08:06 +0000</pubDate>
+		<dc:creator><![CDATA[webdzier]]></dc:creator>
+		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/?page_id=17</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>This is an example page. It’s different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>17</wp:post_id>
+		<wp:post_date><![CDATA[2020-06-18 11:08:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-06-18 11:08:06]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[hotel-room-one]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title>Home</title>
+		<link>https://webdzier.com/demo/theme/hotel-galaxy/</link>
+		<pubDate>Thu, 18 Jun 2020 11:36:25 +0000</pubDate>
+		<dc:creator><![CDATA[webdzier]]></dc:creator>
+		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/?page_id=40</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>40</wp:post_id>
+		<wp:post_date><![CDATA[2020-06-18 11:36:25]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-06-18 11:36:25]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[template-parts/template-homepage.php]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Blogs</title>
+		<link>https://webdzier.com/demo/theme/hotel-galaxy/blogs/</link>
+		<pubDate>Sat, 20 Jun 2020 10:23:17 +0000</pubDate>
+		<dc:creator><![CDATA[webdzier]]></dc:creator>
+		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/?page_id=73</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>73</wp:post_id>
+		<wp:post_date><![CDATA[2020-06-20 10:23:17]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-06-20 10:23:17]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[blogs]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
 		<title>Team</title>
 		<link>https://webdzier.com/demo/theme/hotel-galaxy/team/</link>
 		<pubDate>Sat, 20 Jun 2020 10:26:04 +0000</pubDate>
@@ -11191,156 +11317,6 @@ cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non pr
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>Hotel Single Room</title>
-		<link>https://webdzier.com/demo/theme/hotel-galaxy/hotel-single-room/</link>
-		<pubDate>Tue, 23 Jun 2020 06:59:15 +0000</pubDate>
-		<dc:creator><![CDATA[webdzier]]></dc:creator>
-		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/?page_id=211</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>211</wp:post_id>
-		<wp:post_date><![CDATA[2020-06-23 06:59:15]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-06-23 06:59:15]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[hotel-single-room]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title>Hotel Search Form</title>
-		<link>https://webdzier.com/demo/theme/hotel-galaxy/hotel-search-form/</link>
-		<pubDate>Tue, 23 Jun 2020 07:58:51 +0000</pubDate>
-		<dc:creator><![CDATA[webdzier]]></dc:creator>
-		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/?page_id=215</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>[mphb_availability_search]</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>215</wp:post_id>
-		<wp:post_date><![CDATA[2020-06-23 07:58:51]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-06-23 07:58:51]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[hotel-search-form]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page-templates/room-simple.php]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Page Full-Width</title>
-		<link>https://webdzier.com/demo/theme/hotel-galaxy/page-full-width/</link>
-		<pubDate>Wed, 01 Jul 2020 09:55:23 +0000</pubDate>
-		<dc:creator><![CDATA[webdzier]]></dc:creator>
-		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/?page_id=421</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>This is an example page. It’s different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Hi there! I’m a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like piña coladas. (And gettin’ caught in the rain.)</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>…or something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>As a new WordPress user, you should go to&nbsp;<a href="https://webdzier.com/demo/theme/hotel-galaxy/wp-admin/">your dashboard</a>&nbsp;to delete this page and create new pages for your content. Have fun!</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>421</wp:post_id>
-		<wp:post_date><![CDATA[2020-07-01 09:55:23]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-07-01 09:55:23]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[page-full-width]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[424]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[template-parts/template-fullwidth.php]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Page Left Sidebar</title>
-		<link>https://webdzier.com/demo/theme/hotel-galaxy/page-left-sidebar/</link>
-		<pubDate>Wed, 01 Jul 2020 09:56:59 +0000</pubDate>
-		<dc:creator><![CDATA[webdzier]]></dc:creator>
-		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/?page_id=427</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>This is an example page. It’s different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Hi there! I’m a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like piña coladas. (And gettin’ caught in the rain.)</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>…or something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>As a new WordPress user, you should go to&nbsp;<a href="https://webdzier.com/demo/theme/hotel-galaxy/wp-admin/">your dashboard</a>&nbsp;to delete this page and create new pages for your content. Have fun!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>427</wp:post_id>
-		<wp:post_date><![CDATA[2020-07-01 09:56:59]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-07-01 09:56:59]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[page-left-sidebar]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[423]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[template-parts/template-leftsidebar.php]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title>Lorem ipsum dolor sit amet</title>
 		<link>https://webdzier.com/demo/theme/hotel-galaxy/2020/06/18/hello-world/</link>
 		<pubDate>Thu, 18 Jun 2020 10:54:43 +0000</pubDate>
@@ -11606,6 +11582,156 @@ cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat no]]><
 			<wp:comment_user_id>2</wp:comment_user_id>
 							</wp:comment>
 					</item>
+					<item>
+		<title>Hotel Single Room</title>
+		<link>https://webdzier.com/demo/theme/hotel-galaxy/hotel-single-room/</link>
+		<pubDate>Tue, 23 Jun 2020 06:59:15 +0000</pubDate>
+		<dc:creator><![CDATA[webdzier]]></dc:creator>
+		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/?page_id=211</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>211</wp:post_id>
+		<wp:post_date><![CDATA[2020-06-23 06:59:15]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-06-23 06:59:15]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[hotel-single-room]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title>Hotel Search Form</title>
+		<link>https://webdzier.com/demo/theme/hotel-galaxy/hotel-search-form/</link>
+		<pubDate>Tue, 23 Jun 2020 07:58:51 +0000</pubDate>
+		<dc:creator><![CDATA[webdzier]]></dc:creator>
+		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/?page_id=215</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>[mphb_availability_search]</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>215</wp:post_id>
+		<wp:post_date><![CDATA[2020-06-23 07:58:51]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-06-23 07:58:51]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[hotel-search-form]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page-templates/room-simple.php]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Page Full-Width</title>
+		<link>https://webdzier.com/demo/theme/hotel-galaxy/page-full-width/</link>
+		<pubDate>Wed, 01 Jul 2020 09:55:23 +0000</pubDate>
+		<dc:creator><![CDATA[webdzier]]></dc:creator>
+		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/?page_id=421</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>This is an example page. It’s different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>Hi there! I’m a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like piña coladas. (And gettin’ caught in the rain.)</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>…or something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>As a new WordPress user, you should go to&nbsp;<a href="https://webdzier.com/demo/theme/hotel-galaxy/wp-admin/">your dashboard</a>&nbsp;to delete this page and create new pages for your content. Have fun!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>421</wp:post_id>
+		<wp:post_date><![CDATA[2020-07-01 09:55:23]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-07-01 09:55:23]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[page-full-width]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[424]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[template-parts/template-fullwidth.php]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Page Left Sidebar</title>
+		<link>https://webdzier.com/demo/theme/hotel-galaxy/page-left-sidebar/</link>
+		<pubDate>Wed, 01 Jul 2020 09:56:59 +0000</pubDate>
+		<dc:creator><![CDATA[webdzier]]></dc:creator>
+		<guid isPermaLink="false">https://webdzier.com/demo/theme/hotel-galaxy/?page_id=427</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>This is an example page. It’s different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>Hi there! I’m a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like piña coladas. (And gettin’ caught in the rain.)</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>…or something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>As a new WordPress user, you should go to&nbsp;<a href="https://webdzier.com/demo/theme/hotel-galaxy/wp-admin/">your dashboard</a>&nbsp;to delete this page and create new pages for your content. Have fun!</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>427</wp:post_id>
+		<wp:post_date><![CDATA[2020-07-01 09:56:59]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-07-01 09:56:59]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[page-left-sidebar]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[423]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[template-parts/template-leftsidebar.php]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title>Page Right Sidebar</title>
 		<link>https://webdzier.com/demo/theme/hotel-galaxy/page-right-sidebar/</link>
